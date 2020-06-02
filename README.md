@@ -1,16 +1,13 @@
 # flutter_grid
 
-A new Flutter application.
+## How it's look GridView.count
+![Image of screen_1](https://github.com/Odialko/flutter_grid_view/blob/master/assets/images/gridViewCountPortrait.png)
+![Image of screen_2](https://github.com/Odialko/flutter_grid_view/blob/master/assets/images/gridViewCountLandscape.png)
 
-## Getting Started
+## How it's look GridView.extend
+![Image of screen_3](https://github.com/Odialko/flutter_grid_view/blob/master/assets/images/gridViewextendPortrait.png)
+![Image of screen_4](https://github.com/Odialko/flutter_grid_view/blob/master/assets/images/gridViewExtendLandscape.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How it's look GridView.build
+![Image of screen_5](https://github.com/Odialko/flutter_grid_view/blob/master/assets/images/gridViewBuildPortrait.png)
+![Image of screen_6](https://github.com/Odialko/flutter_grid_view/blob/master/assets/images/gridViewBuildLandscape.png)
